@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="PageObject\Flight\**" />
+    <EmbeddedResource Remove="PageObject\Flight\**" />
+    <None Remove="PageObject\Flight\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="DotNetSeleniumExtras.PageObjects" Version="3.11.0" />
     <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="4.0.1" />
     <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
@@ -24,7 +30,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="PageObject\Flight\" />
     <Folder Include="PageObject\Login\" />
   </ItemGroup>
 

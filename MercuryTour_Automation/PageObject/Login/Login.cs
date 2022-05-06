@@ -57,7 +57,7 @@ namespace MercuryTour_Automation.PageObject.Login
         }
 
         [DynamicData(nameof(ReadExcel), DynamicDataSourceType.Method)]
-        public void enterCredentials(string[] Login)
+        public void EnterCredentials(string[] Login)
         {
            
             txtUserName.SendKeys(Login[0]);

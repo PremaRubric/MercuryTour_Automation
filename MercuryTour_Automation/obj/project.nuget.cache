@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B5rGNtfKsCKsek8NvygWZMTAdBPRp4id9iaL+Aqn+b70PbcWHturPkd9vRyeBczVbOcet7HdvkZZ6Vr9Qhdchg==",
+  "dgSpecHash": "l10H0iK2IGMYDBJHz961lsGM8gmEIIg7D7qUvWdRAkHPTtA8WByh9+w8mYqewR6YV7EpaGVM9r64mWs47Atftg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sd420410\\source\\repos\\test\\MercuryTour_Automation\\MercuryTour_Automation.csproj",
+  "projectFilePath": "C:\\Users\\sd420410\\source\\repos\\test2\\MercuryTour_Automation\\MercuryTour_Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sd420410\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\sd420410\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
