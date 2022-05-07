@@ -179,7 +179,6 @@ C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\bin\Debug\net5.0\run
 C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\obj\Debug\net5.0\MercuryTour_Automation.csprojAssemblyReference.cache
 C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\obj\Debug\net5.0\MercuryTour_Automation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\obj\Debug\net5.0\MercuryTour_Automation.AssemblyInfoInputs.cache
 C:\Users\sd420410\source\repos\test2\MercuryTour_Automation\obj\Debug\net5.0\MercuryTour_Automation.AssemblyInfo.cs

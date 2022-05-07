@@ -61,9 +61,11 @@ namespace MercuryTour_Automation.PageObject.Login
         {
            
             txtUserName.SendKeys(Login[0]);
-            txtPassword.SendKeys(Login[1]);            
-            btnLogin.Click();
+            txtPassword.SendKeys(Login[1]);
 
+           
+            btnLogin.Click();
+            
            
         }
 
